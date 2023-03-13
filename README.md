@@ -9,10 +9,10 @@
 
 ## repository content
 
-- lecture note
-- lab note
-- projects：两次project的内容
-- final：包含自己的cheating paper和回忆版的22FA考题
+- lecture：lecture note
+- lab：lab note
+- project：两次project的内容
+- final：自己写的期末cheating paper，回忆版22FA期末考题
 
 ## tips
 
